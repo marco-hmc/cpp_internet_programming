@@ -1,0 +1,7 @@
+**/.vscode
+**/.vs
+**/.cache
+**/bin
+**/build/
+tmp
+logs
